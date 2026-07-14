@@ -21,10 +21,14 @@ Hi there 👋, I'm **Sudeep S Bingolli**<br><br>
 💬 Ask me about React.js, Node.js, JavaScript, Python, REST APIs, MongoDB, Git, GitHub, Supabase, AI applications, and Full-Stack Development.<br><br>
 
 🏆 **Highlights:**<br>
-- 🚀 Backend Lead – Smart India Hackathon (SIH)<br>
-- 🤖 Built AI-powered Plant Disease Detection System<br>
-- ♻️ Developed Smart Waste Segregation System using YOLO<br>
-- 💬 Created a WhatsApp AI Agent using Python & Selenium<br>
+- 🚀 Backend Lead – Smart India Hackathon (SIH)
+- <br>
+- 🤖 Built AI-powered Plant Disease Detection System
+- <br>
+- ♻️ Developed Smart Waste Segregation System using YOLO
+- <br>
+- 💬 Created a WhatsApp AI Agent using Python & Selenium
+- <br>
 - 🌐 Passionate about building practical software that creates real-world impact<br><br>
 
 📫 Reach me at: **sudeep.s.bingolli@gmail.com**<br><br>
