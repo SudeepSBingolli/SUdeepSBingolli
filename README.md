@@ -1,22 +1,10 @@
 ## 💫 About Me
 
 Hi there 👋, I'm **Sudeep S Bingolli**
-
-🎓 Information Science & Engineering Student at SJB Institute of Technology (Graduating in 2027)
-
-💻 Passionate about Backend Development, Full-Stack Development, Artificial Intelligence, and Cloud Computing.
-
-🚀 I enjoy building scalable web applications, REST APIs, and AI-powered solutions that solve real-world problems.
-
-🔭 I'm currently working on production-ready Full-Stack applications using React.js, Node.js, Express.js, MongoDB, Supabase, and AI technologies.
-
-👯 I'm looking to collaborate on Open Source projects, Full-Stack Web Development, Backend Systems, AI/ML, and Automation projects.
-
-🤝 I'm looking for help with Advanced Backend Development, System Design, Docker, Kubernetes, AWS Cloud, and scalable application architecture.
-
-🌱 I'm currently learning Data Structures & Algorithms, Express.js, MongoDB, JWT Authentication, Docker, Cloud Computing, and improving my problem-solving skills on LeetCode.
-
-💬 Ask me about React.js, Node.js, JavaScript, Python, REST APIs, MongoDB, Git, GitHub, Supabase, AI applications, and Full-Stack Development.
+Aspiring Software Developer specialising in Backend and Full-Stack Development, with hands-on 
+experience in Node.js, React, Supabase, Python, and API-driven systems. Seeking an entry-level role to 
+apply skills in backend systems, REST APIs, and scalable full-stack applications while continuously 
+learning in a professional environment. 
 
 🏆 **Highlights:**
 - 🚀 Backend Lead – Smart India Hackathon (SIH)
@@ -25,6 +13,8 @@ Hi there 👋, I'm **Sudeep S Bingolli**
 - 💬 Created a WhatsApp AI Agent using Python & Selenium
 - 🌐 Passionate about building practical software that creates real-world impact
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SudeepSBingolli&theme=radical&hide_border=false)](https://git.io/streak-stats)<br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SudeepSBingolli&theme=github_dark)<br>
 📫 Reach me at: **sudeep.s.bingolli@gmail.com**
 
 🔗 GitHub: **github.com/SudeepSBingolli**
